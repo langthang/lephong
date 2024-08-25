@@ -10,7 +10,7 @@ On the photography website, you will find the following pages:
       - Commercial & Editorial
       - Events
       - Nature & Travel
-  - Published Work
+  - Packages
   - About
   - Contact
   - Instagram icon link to my photography Instagram page

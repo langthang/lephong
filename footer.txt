@@ -1,1 +1,1 @@
-document.write('<center><p>&#169; Copyright 2024 Le Phong<br>Website design by <a href="http://www.lephong.net" target="_blank">Le Phong</a></p></center>')
+document.write('<center><p>&#169; Copyright 2024 Le Phong<br></p></center>')

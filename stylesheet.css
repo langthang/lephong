@@ -1,10 +1,10 @@
 body { font-family: Ariel, sans-serif; }
 
 p, pre, h5 {
-	font-family: 'Josefin Slab';
+	font-family: 'Poppins';
 	font-size:15px;
 }
-.p-txt { font-family:'Josefin Slab'; font-size: 20px; }
+.p-txt { font-family:'Poppins'; font-size: 20px; }
 h1 { margin-bottom:0; }
 
 footer { margin-bottom:0; color: #000; }
@@ -23,7 +23,7 @@ footer { margin-bottom:0; color: #000; }
 	padding-top:5px;
 }
 .menu-txt {
-    font-family:'Josefin Slab';
+    font-family:'Poppins';
 	font-size:18px;
 }
 .menu-padding { padding: 16px 14px 14px 14px!important; }
@@ -41,7 +41,7 @@ footer { margin-bottom:0; color: #000; }
 	font-family: 'Cormorant Garamond';
 	}
 .aboutText {
-	font-family:'Josefin Slab';
+	font-family:'Poppins';
 	font-size: 23px;
 }
 .contactText {
@@ -144,14 +144,14 @@ footer { margin-bottom:0; color: #000; }
 /* Portfolio page styling */
 .top-heading { margin-top: 100px; }
 .heading {
-    font-family:'Josefin Slab';
+    font-family:'Poppins';
     font-size:60px;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: -35px;
 }
 .heading2 { /* styling for Web Design & Programming section */
-    font-family:'Josefin Slab';
+    font-family:'Poppins';
     font-size:52px;
     text-align: center;
     text-transform: uppercase;

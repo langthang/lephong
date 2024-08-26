@@ -111,6 +111,15 @@ footer { margin-bottom:0; color: #000; }
 .photos-img { width: 100%!important; }
 .no-pad-mobile {}
 
+.card-pricing.popular {
+    z-index: 1;
+    border: 3px solid #007bff;
+}
+.card-pricing .list-unstyled li {
+    padding: .5rem 0;
+    color: #6c757d;
+}
+
 @media (min-width: 769px and max-width: 870px){
     .logo-pad { margin-left:0; }
     .linkedin-padding { padding: 24px 10px 24px 40px; }

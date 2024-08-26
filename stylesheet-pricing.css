@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800);
 .pricing6 {
   font-family: "Josefin Slab", sans-serif;
-  background-color: transparent;
+  color: #8d97ad;
   font-weight: 300;
 }
 
@@ -19,7 +19,8 @@
 }
 
 .pricing6 .bg-light {
-  background-color: #f4f8fa !important;
+  /* background-color: #f4f8fa !important; */
+  background-color: transparent !important;
 }
 
 .pricing6 h5 {

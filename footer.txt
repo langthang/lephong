@@ -1,1 +1,1 @@
-document.write('<center><p>&#169; Copyright 2024 Le Phong<br><br></p></center>')
+document.write('<center><p>&#169; 2024 Le Phong</p></center>')

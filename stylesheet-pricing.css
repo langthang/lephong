@@ -43,6 +43,11 @@
     display: flex;
     padding: 1rem;
   }
+
+  .pricing-hireme {
+    display: flex;
+    padding: 1rem;
+  }
   
   @media (min-width: 40rem) {
     .pricing-cards_item {

@@ -16,10 +16,10 @@
   .pricing-btn {
     color: #ffffff;
     padding: 0.8rem;
-    font-size: 14px;
+    font-size: 20px;
     text-transform: uppercase;
     border-radius: 4px;
-    font-weight: 400;
+    font-weight: 800;
     display: block;
     width: 100%;
     cursor: pointer;
@@ -45,7 +45,7 @@
   }
 
   .pricing-hireme {
-    display: flex;
+    display: block;
     padding: 1rem;
   }
   
@@ -83,16 +83,17 @@
   
   .pricing-card_title {
     color: #ffffff;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     font-weight: 700;
     letter-spacing: 1px;
     text-transform: capitalize;
     margin: 0px;
+    text-align: center;
   }
   
   .pricing-card_text {
     color: #ffffff;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     line-height: 1;
     margin-bottom: 1.25rem;    
     font-weight: 400;

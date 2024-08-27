@@ -93,10 +93,12 @@
   
   .pricing-card_text {
     color: #ffffff;
-    font-size: 1.0rem;
+    font-size: 1.1rem;
     line-height: 0.8;
     margin-bottom: 1.25rem;    
     font-weight: 400;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
   .pricing-made_by{
     font-weight: 400;

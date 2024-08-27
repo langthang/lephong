@@ -58,7 +58,7 @@
 
   @media (max-width: 768px) {
     .pricing-cards_item {
-      width: 100%;
+      width: 33.3333%;
     }
   }
   
